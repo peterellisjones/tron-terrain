@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Chunk.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs" Line="15" Column="1" />
+      <File FileName="Assets/Resources/TronShader.shader" Line="14" Column="7" />
+      <File FileName="Assets/Scripts/Main.cs" Line="17" Column="27" />
+      <File FileName="Assets/Scripts/Chunk.cs" Line="295" Column="39" />
+      <File FileName="Assets/Scripts/Rand.cs" Line="17" Column="3" />
+      <File FileName="Assets/Scripts/ChunkManager.cs" Line="52" Column="4" />
+      <File FileName="Assets/Standard Assets/Image Effects (Pro Only)/Triangles.js" Line="100" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
